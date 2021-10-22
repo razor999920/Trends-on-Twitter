@@ -1,0 +1,12 @@
+172.17.0.1 - - [21/Jun/2021 03:37:39] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['1-neutral', '4-positive', '2-positive', '2-neutral', '4-neutral', '5-neutral', '2-negative', '5-negative', '4-negative', '3-neutral', '3-positive', '1-positive', '1-negative', '5-positive']
+data now: [140, 30, 39, 114, 101, 13, 16, 2, 22, 4, 1, 24, 11, 9]
+172.17.0.1 - - [21/Jun/2021 03:37:39] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['1-neutral', '4-positive', '2-positive', '2-neutral', '4-neutral', '5-neutral', '2-negative', '5-negative', '4-negative', '3-neutral', '3-positive', '1-positive', '1-negative', '5-positive']
+data now: [140, 30, 39, 114, 101, 13, 16, 2, 22, 4, 1, 24, 11, 9]
+172.17.0.1 - - [21/Jun/2021 03:37:40] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['1-neutral', '4-positive', '2-positive', '2-neutral', '4-neutral', '5-neutral', '2-negative', '5-negative', '4-negative', '3-neutral', '3-positive', '1-positive', '1-negative', '5-positive']
+data now: [140, 30, 39, 114, 101, 13, 16, 2, 22, 4, 1, 24, 11, 9]
+172.17.0.1 - - [21/Jun/2021 03:37:40] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['1-neutral', '4-positive', '2-positive', '2-neutral', '4-neutral', '5-neutral', '2-negative', '5-negative', '4-negative', '3-neutral', '3-positive', '1-positive', '1-negative', '5-positive']
+

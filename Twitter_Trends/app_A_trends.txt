@@ -1,0 +1,18 @@
+data now: [4, 3, 2]
+172.17.0.1 - - [21/Jun/2021 03:24:25] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['#nbaplayoffs', '#nba', '#rallythevalley']
+data now: [4, 3, 2]
+172.17.0.1 - - [21/Jun/2021 03:24:25] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['#nbaplayoffs', '#nba', '#rallythevalley']
+data now: [4, 3, 2]
+172.17.0.1 - - [21/Jun/2021 03:24:25] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['#nbaplayoffs', '#nba', '#rallythevalley']
+data now: [4, 3, 2]
+172.17.0.1 - - [21/Jun/2021 03:24:26] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['#nbaplayoffs', '#nba', '#rallythevalley']
+data now: [4, 3, 2]
+172.17.0.1 - - [21/Jun/2021 03:24:26] "GET /refreshData HTTP/1.1" 200 -
+labels now: ['#nbaplayoffs', '#nba', '#rallythevalley']
+data now: [4, 3, 2]
+172.17.0.1 - - [21/Jun/2021 03:24:26] "GET /refreshData HTTP/1.1" 200 -
+
