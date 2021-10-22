@@ -67,7 +67,7 @@ First to run twitter_app.py:
 
 
 
-
+By: Raza Ali & Marc Chami
 
 
 
