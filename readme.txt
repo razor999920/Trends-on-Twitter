@@ -1,6 +1,5 @@
 How to run part A of application:
 
-
 First to run twitter_app.py:
 1) In terminal, create a container using docker by running the following command:
     ~ docker run -it -v $PWD:/app --name twitter -p 9009:9009 python bash
